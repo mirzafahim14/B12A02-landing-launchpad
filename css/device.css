@@ -1,0 +1,249 @@
+@media screen and (max-width: 393px){
+.window-viewport{
+    display: none;
+}
+nav{
+    margin: 20px 35px;
+}
+
+.logo img{
+    width: 82px;
+    height: 56px;
+}
+nav a{
+    font-size: 22px;
+    padding-left: 30%;
+}
+nav img, a{
+    display: flex;
+}
+
+.cart-image{
+    height: 22px;
+}
+.Banner{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.h1-container1{
+    font-size: 33px;
+    line-height: 0.1;
+    padding: 0px 38px;
+}
+.h1-container2-1{
+    font-size: 28px;
+    padding: 0px 38px;
+}
+.h1-container2{
+    font-size: 24px;
+    padding: 0px 38px;
+}
+.h1-container3{
+    font-size: 24px;
+    line-height: 0.1;
+}
+.position1{
+    position: absolute;
+    left: 80px;
+    top:3710px;
+    z-index: 1;
+}
+
+.position2{
+    position: absolute;
+    left: 32px;
+    top:3760px;
+    z-index: 1;
+}
+.font-color{
+    color: #E95A08;
+}
+.p-container1, li{
+    font-size: 16px;
+    padding: 0px 38px;
+    line-height: 1;
+}
+.card{
+    max-width: 140px;
+    padding-bottom: 30px;
+    line-height: 4px;
+    margin: 0 auto;
+}
+.btn-primary{
+    background-color: #E95A08;
+    color: white;
+    font-size: 16px;
+    padding: 15px 15px;
+    border: none;
+    cursor: pointer;
+}
+.button-position{
+    position: absolute;
+    left: 250px;
+    top:3769px;
+    z-index: 1;
+}
+.item{
+    padding: 0px 30px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.Plants-Lover-Section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0%;
+    padding: 0%;
+}
+
+.Plants-Lover-Section img{
+    width: 290px;
+    height: 400px;
+    align-items: center;
+}
+.Title-and-unordered-list ul li{
+    line-height: 1;
+    font-size: 16px;
+    padding: 5px;
+}
+.Title-and-unordered-list strong{
+    display: flex;
+    text-align: left;
+}
+.Title-and-unordered-list br{
+    display: none;
+}
+.badge{
+    display: none;
+}
+.Latest-Deals-section{
+    text-align: center;
+}
+
+.Latest-Deals-Images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    vertical-align: middle;
+}
+.join-section{
+    padding: 20px 0px 0px 0px;
+}
+.grid-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-1 img{
+    width: 361px;
+    padding: 15px;
+    border-radius: 25px;
+    filter: brightness(0.6);
+}
+.p-position1{
+    left: 90px;
+    top: 3050px;
+    z-index: 1;
+}
+.a-position1{
+    left: 150px;
+    top: 3100px;
+    z-index: 1;
+}
+
+.p-position2{
+    left: 90px;
+    top: 3280px;
+    z-index: 1;
+}
+.a-position2{
+    left: 150px;
+    top: 3330px;
+    z-index: 1;
+}
+
+.p-position3{
+    left: 90px;
+    top: 3480px;
+    z-index: 1;
+}
+.a-position3{
+    left: 150px;
+    top: 3530px;
+    z-index: 1;
+}
+.grid-1 a{
+    font-size: 16px;
+    font-weight: 600;
+    position: absolute;
+    color: white;
+}
+.grid-1 p{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+}
+
+.grid-2 img{
+    width: 362px;
+    padding: 18px;
+    border-radius: 25px;
+    filter: brightness(0.6);
+}
+.grid-2 a{
+    font-size: 18px;
+    font-weight: 600;
+    position: absolute;
+    color: white;
+}
+.grid-2 p{
+    font-size: 22px;
+    position: absolute;
+    color: white;
+}
+
+.join-section img{
+    width: 100%;
+}
+
+input[type=email] {
+  width: 218px;
+  padding: 14px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.footer-logo p{
+    text-align: left;
+    color: #7d7e7f;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 0px 25px;
+}
+.footer-menu{
+    padding: 5px 20px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.footer-menu a{
+    text-decoration: none;
+    padding: 5px 25px;
+    font-size: 16px;
+    color: #7d7e7f;
+}
+.icons{
+    display: flex;
+    padding: 0px 30px;
+}
+.icons img{
+    padding: 40px 14px;
+    width: 50%;
+}
+}
